@@ -78,8 +78,6 @@ app = Flask(__name__)
 blockchain = Blockchain()
 
 # Mining the blockchain
-
-
 @app.route('/mine_block', methods=['GET'])
 def mine_block():
     previous_block = blockchain.get_previous_block()
