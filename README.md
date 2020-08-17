@@ -16,4 +16,4 @@ A repository for the purpose of Learning Blockchain
 
 Will update with more functionalities soon.
 
-Tagging info
+Tagging information
