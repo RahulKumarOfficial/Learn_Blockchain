@@ -15,3 +15,5 @@ A repository for the purpose of Learning Blockchain
 * **Step 4**: Execute `http://127.0.0.1:5001/mine_block` in the GET field to mine the block. Execute Step 4 for displaying blocks in the chain
 
 Will update with more functionalities soon.
+
+Tagging info
